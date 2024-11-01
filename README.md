@@ -37,9 +37,10 @@ seaborn
 - Model training and evaluation
 - Performance metrics including:
   - Confusion Matrix
-  - Classification Report
+  - PR-AUC
   - ROC Curve
   - Precision-Recall Curve
+  - F1-Score
 
 
 ## Performance Evaluation
