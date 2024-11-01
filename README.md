@@ -4,6 +4,8 @@ This project implements machine learning models to detect fraudulent credit card
 
 ## Dataset Overview
 
+[Dataset Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 - Dataset contains credit card transactions from September 2013
 - Total transactions: 284,807
 - Fraudulent cases: 492 (0.172% of total)
@@ -46,8 +48,8 @@ Due to the highly imbalanced nature of the dataset, we focus on the Area Under t
 
 ## License
 
-This project is licensed under the Apache License - see the LICENSE file for details.
+This project is licensed under the **```APACHE 2.0```** License - see the LICENSE file for details.
 
 ## Acknowledgments
 
-The dataset was obtained from Kaggle. Due to confidentiality, the original features have been transformed using PCA.
+The dataset was obtained from [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). Due to confidentiality, the original features have been transformed using PCA.
